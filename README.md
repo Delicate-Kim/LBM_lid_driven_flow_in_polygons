@@ -19,3 +19,7 @@ based on Textbook (Mohamad 2011) with clearer distinction between the physical,
 nondimensional and numerical/discrete parameters, according to Jonas Latt's 2008 paper on the topic.
 
 add function that monitors the current flow field in real-time while MATLAB is solving for the flowfield
+
+
+![Description of image](assets/diagram.png)
+![Description of image](assets/diagram.png)
