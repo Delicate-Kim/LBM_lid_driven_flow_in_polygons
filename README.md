@@ -88,10 +88,10 @@ Complex cavity boundaries are represented by a binary mask `isfluid`:
 This allows simulation of arbitrary polygonal domains inside a square computational box.  
 
 ![isfluid mask](misc/isfluid.png)  
-*Example of boundary nodes along a curved wall.*  
 
-![Boundary treatments](misc/three_BC_treatment.png)  
-*Comparison of different boundary treatments.*  
+Comparison of different boundary treatments:  
+
+<img src="misc/three_BC_treatment.png" width="70%"/>
 
 ---
 
